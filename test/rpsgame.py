@@ -1,3 +1,7 @@
+# 테스트
+
+
+
 import pygame
 import sys
 import random
